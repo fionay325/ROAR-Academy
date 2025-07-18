@@ -8,7 +8,7 @@
 ## Shows the game being played during training
 
 import random
-import gym
+import gymnasium as gym
 import os
 import numpy as np
 from collections import deque
